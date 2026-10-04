@@ -1,0 +1,6 @@
+{
+  "name": "VoxClone AI Studio - Multilingual Text to Speech & Voice Cloning",
+  "description": "Natural-sounding AI text-to-speech studio supporting 25+ languages, realistic voice cloning from uploaded or recorded audio, and rich acoustic styling.",
+  "requestFramePermissions": ["CAMERA", "MICROPHONE"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
